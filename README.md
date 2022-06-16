@@ -4,7 +4,7 @@
 <h3 align="center">I'm a dedicated Full Stack Web an Mobile Application Developer.</h3>
 
 
-## 🙋‍ About Me
+## 🤵🏻👨🏻‍🎓 About Me
 
 
 - 🌱 I’m currently learning **GraphQL**
