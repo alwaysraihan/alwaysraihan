@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQGmg-strk682g/profile-displaybackgroundimage-shrink_350_1400/0/1654577725173?e=1660780800&v=beta&t=BLA8HoFluDr4mll7oI6wJllWacJS-S5WzTosR7Z-sYc" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQHVFwmuD99Xnw/profile-displaybackgroundimage-shrink_200_800/0/1658587325375?e=1664409600&v=beta&t=fOY2MYoJiTs3evVEwk8idSLvuAsIFZI1U6t-KHvv9bs" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurul Islam</h1>
 <h3 align="center">I'm a dedicated Full Stack Web an Mobile Application Developer.</h3>
